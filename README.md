@@ -1,2 +1,0 @@
-# RepoDiego
-Repo Class MIT
